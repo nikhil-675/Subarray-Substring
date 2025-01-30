@@ -6,7 +6,8 @@
 *.lo
 *.o
 *.obj
-
+*.json
+outDebug
 # Precompiled Headers
 *.gch
 *.pch
